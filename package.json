@@ -1,0 +1,16 @@
+{
+  "name": "cors-anywhere",
+  "version": "1.0.0",
+  "description": "a proxy server for cors blocked requests",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "npm install && npm start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
